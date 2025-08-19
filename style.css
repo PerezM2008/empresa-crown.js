@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 500vh;
+    width:auto;
+}
+header{
+    height:80vh;
+    background-color: aqua;
+    
+}
+
+.buscador{
+    display: flex;
+    align-items: center;
+    height: 50px;
+    width: 100vh;
+    background-color: blueviolet;
+    border-style: black;
+
+}
+
+
+
+.container1 {
+    height: 65vh;
+    background-color: rgb(255, 145, 0);
+    display: flex;
+    align-items: center;
+    justify-content: space-between; 
+
+}
