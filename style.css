@@ -8,8 +8,7 @@ body{
     width:auto;
 }
 header{
-    height:80vh;
-    background-color: aqua;
+    height:25vh;
     
 }
 
@@ -17,19 +16,71 @@ header{
     display: flex;
     align-items: center;
     height: 50px;
-    width: 100vh;
-    background-color: blueviolet;
-    border-style: black;
+    width: 50vh;
+    border: 1px solid rgb(51, 43, 43);
+    border-radius: 5px;
+    justify-content: space-between;
+    padding: 10px;
+}
+.buscador img{
+    display: flex;
+    height: 20px;
+    width: 20px;
+}
+.atendimento{
+    height: 50px;
+    width: 130px;
+    border-radius: 5px;
+    background-color: #c6930a;
+    border: white;
+    color: white;
+
+}
+
+.carrinho{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 50px;
+    width: 130px;
+    background-color: #c6930a;
+    border: white;
+    color: white;
+    border-radius: 5px;
+
+    
+}
+
+.carrinho img{
+    height: 20px;
+    width: 20px;
+    margin: 0px 10px;
 
 }
 
 
 
 .container1 {
-    height: 65vh;
-    background-color: rgb(255, 145, 0);
+    height: 20vh;
+    background-color: rgb(255, 255, 255);
     display: flex;
     align-items: center;
     justify-content: space-between; 
+    margin: 0px 10vh;
+
+}
+.container2 {
+    background-color: rgb(19, 19, 19);
+    
+}
+
+.menu {
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    margin: 0vh 10vh;
+    height: 6vh;
+    align-items: center;
+    color: wheat;
 
 }
