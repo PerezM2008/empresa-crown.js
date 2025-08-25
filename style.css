@@ -12,7 +12,7 @@ header{
     
 }
 
-.buscador{
+.placehouder buscador{
     display: flex;
     align-items: center;
     height: 50px;
