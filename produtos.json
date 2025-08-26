@@ -1,0 +1,93 @@
+
+[
+    {
+        "id": 1,
+        "nome": "Caneta dell",
+        "descricao": "Caneta esferiografica",
+        "preco": 3400.00,
+        "imagem": "img/caneta-dell.webp",
+        "categoria": "Artigo de Luxo",
+        "classificacao": 2
+    },
+    {
+        "id": 2,
+        "nome": "Caneta Dourada",
+        "descricao": "Caneta de Luxo dourada esferiografica",
+        "preco": 5999.00,
+        "imagem": "img/caneta-dourada.webp",
+        "categoria": "Artigo de Luxo",
+        "classificacao": 4
+      },
+      {
+        "id": 3,
+        "nome": "Caneta Duty Preta",
+        "descricao": "Caneta de Luxo-Black esferiografica",
+        "preco": 1299.99,
+        "imagem": "img/Caneta-Duty-Preta.png",
+        "categoria": "Artigo de Luxo",
+        "classificacao": 2
+      },
+      {
+        "id": 4,
+        "nome": "Caneta Elegance",
+        "descricao": "Caneta de Luxo Social Elegance",
+        "preco": 2219.99,
+        "imagem": "img/caneta-elegance.png",
+        "categoria": "Artigo de Luxo",
+        "classificacao": 5
+      },
+      {
+        "id": 5,
+        "nome": "Caneta Otawa Fume",
+        "descricao": "Caneta Fume Ocasiões Sociais",
+        "preco": 1199.99,
+        "imagem": "img/caneta-otawa-fume.webp",
+        "categoria": "Artigo de Luxo",
+        "classificacao": 5
+      },
+      {
+        "id": 6,
+        "nome": "Caneta Presidente",
+        "descricao": "Caneta Social Luxo Presidence esferiografica",
+        "preco": 8499.99,
+        "imagem": "img/caneta-presidente.png",
+        "categoria": "Artigo de Luxo",
+        "classificacao": 4
+      },
+      {
+        "id": 7,
+        "nome": "Caneta Queen Black Simple",
+        "descricao": "Caneta Queen Black Mod.Simple",
+        "preco": 3499.99,
+        "imagem": "img/caneta-queen-preta.webp",
+        "categoria": "Artigo de Luxo",
+        "classificacao": 3
+      },
+      {
+        "id": 8,
+        "nome": "Caneta Tinteiro Azul Selvagem",
+        "descricao": "Caneta Tinteiro Acará-Disco azul Selvagem",
+        "preco": 7299.99,
+        "imagem": "img/Caneta-tinteiroazul.png",
+        "categoria": "Artigo de Luxo",
+        "classificacao": 4
+      },
+      {
+        "id": 9,
+        "nome": "Caneta Veneto Azul",
+        "descricao": "Caneta esferiografica Veneto Azul",
+        "preco": 3799.99,
+        "imagem": "img/veneto-azul.webp",
+        "categoria": "Artigo de Luxo",
+        "classificacao": 4
+      },
+      {
+        "id": 10,
+        "nome": "Caneta Capricci Tinteiro Dourada",
+        "descricao": "Caneta Capricci Mod.Luxury dourada",
+        "preco": 12999.99,
+        "imagem": "img/caneta-capricci-douradaPena.png",
+        "categoria": "Artigo de Luxo",
+        "classificacao": 4
+      }
+]
