@@ -58,12 +58,6 @@ header{
 
 }
 
-.container-card{
-    display: flex;
-    gap: 40px;
-
-}
-
 .container1 {
     height: 20vh;
     background-color: rgb(255, 255, 255);
@@ -94,6 +88,12 @@ main{
     width: auto;
     align-items: center;
     justify-content: center;
+}
+
+.container-card{
+    display: flex;
+    gap: 40px;
+
 }
 
 .cards{
