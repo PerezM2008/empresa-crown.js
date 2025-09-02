@@ -5,19 +5,17 @@
 
 const produtos = ['produtos.json']
 
-const containerCard = document.getElementById('cards');
+const containerCard = document.getElementById('containerCard');
 
 
 function criarCards(produtos){
-
-    
 
     let cards = document.createElement('div');
     cards.classList.add('cards');
 
     let imagem = document.createElement('img');
     imagem.src = `./img/${produtos.imagem}`;
-    imagem.classList.add('cards img');
+   
     
     let nome = document.createElement('h3');
     nome.textContent = produtos.nome;
@@ -30,6 +28,13 @@ function criarCards(produtos){
     preco.textContent = produtos.preco;
     preco.classList.add('informacoes h2');
 
+    cards.appendChild(img);
+    cards.appendChild(h3);
+    cards.appendChild(p);
+    cards.appendChild(h2);
+
+    containerCard.appendChild(cards);
+
 }
 
-Cards.appendChild(cards);
+
